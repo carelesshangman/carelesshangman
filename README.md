@@ -34,9 +34,9 @@ function aboutMe(){
   }
 }
 ```
-
+<a style="align: center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vb8u2k6ngwuq86iiv0zho6br&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+</a>
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
