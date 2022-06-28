@@ -36,19 +36,12 @@ function aboutMe(){
 ```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vb8u2k6ngwuq86iiv0zho6br&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
 ## My Statistics
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=carelesshangman&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=carelesshangman&theme=gruvbox&hide_border=true" />
   </a>
