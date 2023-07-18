@@ -17,10 +17,10 @@
  
 <br />
 <p align="center">
-  <h3> I'm 19 years old with a number of smaller projects behind me.</h3>
+  <h3> I'm 20 years old with a number of smaller projects behind me.</h3>
 </p>
 
- - Learning GoLang & so many other things
+ - Learning Rust & so many other things
 
  - Enjoying digital marketing as a side hustle
  
