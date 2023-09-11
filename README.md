@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/1vb8u2k6ngwuq86iiv0zho6br"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 <div align="center">
-<h3> 🤵 Jaka German | 💻 Java & PHP Developer (at the moment) | 🏔️ Slovenia based</h3>
+<h3> 🤵 Jaka German | 💻 Rust Developer | 🏔️ Slovenia based</h3>
 </div>
  
  <h5 align="center">
@@ -20,9 +20,9 @@
   <h3> I'm 20 years old with a number of smaller projects behind me.</h3>
 </p>
 
- - Learning Rust & so many other things
+ - Rust is my new passion
 
- - Enjoying digital marketing as a side hustle
+ - Enjoying digital marketing on the side
  
  - I can't trust people who don't use dark mode
 <!--  -->
