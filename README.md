@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/1vb8u2k6ngwuq86iiv0zho6br"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 <div align="center">
-<h3> 🤵 Jaka German | 💻 Rust Developer | 🏔️ Slovenia based</h3>
+<h3> 🤵 Jaka German | 💻 Backend Developer | 🏔️ Slovenia based</h3>
 </div>
  
  <h5 align="center">
