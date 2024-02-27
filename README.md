@@ -11,7 +11,7 @@
 </div>
  
  <h5 align="center">
-   <i>🖥️ A jack of all trades is a master of none, but oftentimes better than a master of one 🖥️</i>
+   <i>🖥️ Debugging: Where creativity meets caffeine 🖥️</i>
   </h5>
  
  
