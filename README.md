@@ -17,10 +17,10 @@
  
 <br />
 <p align="center">
-  <h3> I'm 20 years old with a number of smaller projects behind me.</h3>
+  <h3> I'm 21 years old with a number of smaller projects behind me.</h3>
 </p>
 
- - Rust is my new passion
+ - Rust and NodeJS
 
  - Enjoying digital marketing on the side
  
