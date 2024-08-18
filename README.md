@@ -13,7 +13,7 @@
  
 <br />
 <p align="center">
-  <h3> I'm a 21 year old **Backend Developer** that focuses on AI, Web3 and Cybersecurity tools and apps</h3>
+  <h3> I'm a 21 year old <b>Backend Developer</b> that focuses on <b>AI</b>, <b>Web3</b> and <b>Cybersecurity</b> tools and apps</h3>
 </p>
 
  - Rust and NodeJS
