@@ -10,21 +10,16 @@
 <h3> 🤵 Jaka German | 💻 Backend Developer | 🏔️ Slovenia based</h3>
 </div>
  
- <h5 align="center">
-   <i>🖥️ Debugging: Where creativity meets caffeine 🖥️</i>
-  </h5>
- 
  
 <br />
 <p align="center">
-  <h3> I'm 21 years old with a number of smaller projects behind me.</h3>
+  <h3> I'm a 21 year old **Backend Developer** that focuses on AI, Web3 and Cybersecurity tools and apps</h3>
 </p>
 
  - Rust and NodeJS
 
- - Enjoying digital marketing on the side
- 
- - I can't trust people who don't use dark mode
+ - AWS and Google Cloud Run
+
 <!--  -->
 
 <p align="center" >
