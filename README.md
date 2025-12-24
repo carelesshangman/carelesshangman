@@ -1,4 +1,4 @@
-# 🤵 Jaka German | Backend Developer
+# Jaka German | Backend Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Rust+Enthusiast;AI+Developer;Backend+Architect" alt="Typing SVG" />
