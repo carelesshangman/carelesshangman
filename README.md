@@ -51,7 +51,3 @@ I am a versatile **Product Developer** and **Backend Engineer** with a focus on 
 ### 🎓 Education
 * **University of Ljubljana**: Faculty of Computer and Information Science.
 * **Master of Computer Applications (MCA)**: Computer Software Engineering (2018-2022).
-
-<p align="center">
-  <i>"I aim to continue exploring cutting-edge technologies and collaborating with talented teams to solve complex problems."</i>
-</p>
