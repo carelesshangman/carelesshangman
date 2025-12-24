@@ -22,7 +22,8 @@
 ### 🚀 Current Projects
 * **[Agave Extension](https://github.com/carelesshangman/agave)**: An open-source, privacy-first Chrome extension designed to support content creators. Built as a transparent alternative to traditional coupon extensions.
     * **Live Site:** [carelesshangman.github.io/agave_page/](https://carelesshangman.github.io/agave_page/)
-
+* **[WHAT THE F*CK IS A KILOMETER](https://github.com/carelesshangman/unit_syncer)** 🦅🇺🇸
+    * A Chrome extension that converts metric and foreign units into **Freedom Units** (Imperial). Featuring real-time DOM parsing, hover tooltips, and a "Maximum America" mode.
 ---
 
 ### ⚡ Professional Summary
