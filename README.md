@@ -19,6 +19,12 @@
 
 ---
 
+### 🚀 Current Projects
+* **[Agave Extension](https://github.com/carelesshangman/agave)**: An open-source, privacy-first Chrome extension designed to support content creators. Built as a transparent alternative to traditional coupon extensions.
+    * **Live Site:** [carelesshangman.github.io/agave_page/](https://carelesshangman.github.io/agave_page/)
+
+---
+
 ### ⚡ Professional Summary
 I am a versatile **Product Developer** and **Backend Engineer** with a focus on high-performance systems and innovative user experiences. I specialize in building scalable tools for **AI**, **Web3**, and **Cybersecurity**.
 
