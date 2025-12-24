@@ -1,52 +1,63 @@
-<div align="center">
-   <h1>Hey, I'm Jaka German</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+# 🤵 Jaka German | Backend Developer
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/jaka-german-74ba54215/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/1vb8u2k6ngwuq86iiv0zho6br"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- </p>
-<div align="center">
-<h3> 🤵 Jaka German | 💻 Backend Developer | 🏔️ Slovenia based</h3>
-</div>
- 
- 
-<br />
 <p align="center">
-  <h3> I'm a 22 year old <b>Backend Developer</b> that focuses on <b>AI</b>, <b>Web3</b> and <b>Cybersecurity</b> tools and apps</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Rust+Enthusiast;AI+Innovator;Backend+Architect;Full-stack+Visionary" alt="Typing SVG" />
 </p>
 
- - Rust and NodeJS
-
- - AWS and Google Cloud Run
-
-<!--  -->
-
-<p align="center" >
-<a> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=carelesshangman&&show_icons=true&theme=radical"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaka-german">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <a href="mailto:jaka.german@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Ljubljana-005BAA?style=for-the-badge&logo=slovenia&logoColor=white" alt="Location" />
 </p>
 
-<br />
+---
 
-### - Languages and Tools I've used and learned before
+### ⚡ Professional Summary
+[cite_start]I am a versatile **Product Developer** and **Backend Engineer** with a focus on high-performance systems and innovative user experiences[cite: 12, 15]. I specialize in building scalable tools for **AI**, **Web3**, and **Cybersecurity**.
+
+* [cite_start]**Current Role**: Backend Developer at **BPLANET d.o.o.**[cite: 10, 25].
+* [cite_start]**Expertise**: Versatile across Rust, Python, JavaScript, and PHP[cite: 12].
+* [cite_start]**Project Leadership**: Proven track record as a Project Lead for initiatives like **Kitio** and **4trades.io**[cite: 30, 36].
+* [cite_start]**Background**: Former professional esports athlete and coach for **Blizzard** and **Riot Games**[cite: 45, 49].
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core Languages** | [cite_start]Rust, Python, JavaScript, PHP [cite: 12] |
+| **Backend & Bot Dev** | [cite_start]Node.js, Discord Bot development, Telegram applications [cite: 13, 39] |
+| **Cloud & DevOps** | AWS, Azure, Google Cloud Run |
+| **AI & Science** | Machine Learning, Artificial Intelligence, Data Science |
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carelesshangman&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaka's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carelesshangman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Key Projects & Milestones
+* [cite_start]**Posture Cat**: Led development of software solutions focusing on ergonomics and health[cite: 14].
+* [cite_start]**Crypto Trading Simulators**: Developed sophisticated architecture for financial simulations[cite: 14].
+* [cite_start]**Visual CPQ (SaleSqueze)**: Optimized product development for manufacturing efficiency[cite: 15].
+* [cite_start]**Discord/Telegram Bots**: Built advanced automated solutions using Rust[cite: 13, 39].
+
+---
+
+### 🎓 Education
+* [cite_start]**University of Ljubljana**: Faculty of Computer and Information Science[cite: 52].
+* [cite_start]**Master of Computer Applications (MCA)**: Computer Software Engineering (2018-2022)[cite: 55, 56].
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  [cite_start]<i>"I aim to continue exploring cutting-edge technologies and collaborating with talented teams to solve complex problems." [cite: 16]</i>
 </p>
