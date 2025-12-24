@@ -1,7 +1,7 @@
 # 🤵 Jaka German | Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Rust+Enthusiast;AI+Innovator;Backend+Architect;Full-stack+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Rust+Enthusiast;Audi+AI;Backend+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 ### ⚡ Professional Summary
 I am a versatile **Product Developer** and **Backend Engineer** with a focus on high-performance systems and innovative user experiences. I specialize in building scalable tools for **AI**, **Web3**, and **Cybersecurity**.
 
-* **Current Role**: Backend Developer at **BPLANET d.o.o.**
+* **Current Role**: Backend Developer at **Astral8** & AI Dev at Vandri
 * **Expertise**: Versatile across Rust, Python, JavaScript, and PHP.
 * **Project Leadership**: Proven track record as a Project Lead for initiatives like **Kitio** and **4trades.io**.
-* **Background**: Former professional esports athlete and coach for **Blizzard** and **Riot Games**.
+* **Background**: Former professional esports player and coach
 
 ---
 
@@ -57,7 +57,3 @@ I am a versatile **Product Developer** and **Backend Engineer** with a focus on 
 ### 🎓 Education
 * **University of Ljubljana**: Faculty of Computer and Information Science.
 * **Master of Computer Applications (MCA)**: Computer Software Engineering (2018-2022).
-
-<p align="center">
-  <i>"I aim to continue exploring cutting-edge technologies and collaborating with talented teams to solve complex problems."</i>
-</p>
